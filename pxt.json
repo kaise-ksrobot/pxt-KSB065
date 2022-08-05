@@ -6,7 +6,7 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:microsoft/pxt-neopixel",
-        "KS_LCD":"github:kaise-ksrobot/pxt-KSB065"
+        "KS_LCD":"github:kaise-ksrobot/xt-KS-LCD"
     },
     "files": [
         "main.ts",
